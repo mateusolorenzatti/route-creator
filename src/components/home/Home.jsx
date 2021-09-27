@@ -9,6 +9,12 @@ function Home() {
     <div>
       <Navbar />
       <MapBox />
+
+      <div className="container">
+        <div className="card">
+          Footer
+        </div> 
+      </div>
     </div>
   );
 }
