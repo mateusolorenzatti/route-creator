@@ -12,7 +12,9 @@ function Navbar() {
             </div>
             <a href="/" class="navbar-brand">
                 Route Creator
-        </a>
+
+            </a>
+            <span class="badge badge-danger ml-3"> V0.2 </span>
 
             <div class="navbar-content ml-auto">
                 <button class="btn btn-success"
