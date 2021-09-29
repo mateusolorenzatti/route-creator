@@ -14,7 +14,7 @@ class Map extends Component {
             pitch: 0
         },
         width: '100%',
-        height: 500
+        height: 600
     };
 
     render() {
