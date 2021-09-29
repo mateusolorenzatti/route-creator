@@ -14,7 +14,7 @@ function Navbar() {
                 Route Creator
 
             </a>
-            <span class="badge badge-danger ml-3"> V0.3 </span>
+            <span class="badge badge-danger ml-3"> V0.4 </span>
 
             <div class="navbar-content ml-auto">
                 <button class="btn btn-success"
